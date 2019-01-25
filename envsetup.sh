@@ -2029,4 +2029,4 @@ addcompletions
 
 export ANDROID_BUILD_TOP=$(gettop)
 
-. $ANDROID_BUILD_TOP/vendor/cerberus/build/envsetup.sh
+. $ANDROID_BUILD_TOP vendor/cerberus/build/envsetup.sh
